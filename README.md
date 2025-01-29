@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,17 +40,17 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    6 hrs 19 mins       █████████████░░░░░░░░░░░░   51.19 % 
-TeX                      4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Protocol Buffer          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Julia                    4 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.42 % 
+TeX                      4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+Smali                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Protocol Buffer          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -72,7 +70,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 18:47:10 UTC
+ Last Updated on 29/01/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 
