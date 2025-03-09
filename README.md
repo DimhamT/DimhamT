@@ -7,8 +7,6 @@
 
 > 📦 10.3 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -72,7 +70,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:48:20 UTC
+ Last Updated on 09/03/2025 18:42:47 UTC
 <!--END_SECTION:waka-->
 
 
