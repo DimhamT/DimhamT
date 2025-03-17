@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,14 +40,15 @@ Sunday                   209 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    2 mins              █████████████████░░░░░░░░   66.02 % 
-TOML                     1 min               ████████░░░░░░░░░░░░░░░░░   33.98 % 
+Julia                    2 hrs 34 mins       █████████████████████████   99.03 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -67,7 +68,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2025 18:49:24 UTC
+ Last Updated on 17/03/2025 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 
