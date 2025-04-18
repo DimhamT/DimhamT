@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.3 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
+> 🏆 29 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -58,11 +58,11 @@ Linux                    11 hrs 54 mins      ███████████�
 **I Mostly Code in Julia** 
 
 ```text
-Julia                    12 repos            ██████████████████░░░░░░░   70.59 % 
-Typst                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Julia                    12 repos            █████████████████░░░░░░░░   66.67 % 
+Typst                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -72,7 +72,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 02:17:54 UTC
+ Last Updated on 18/04/2025 18:53:18 UTC
 <!--END_SECTION:waka-->
 
 
