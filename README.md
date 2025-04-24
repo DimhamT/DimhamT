@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,17 +42,17 @@ Sunday                   272 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    19 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
-Vue.js                   13 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-TypeScript               7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Julia                    17 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.50 % 
+Vue.js                   13 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+TypeScript               9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 Python                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Protocol Buffer          1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Protocol Buffer          1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  45 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    45 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -70,7 +72,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 18:56:37 UTC
+ Last Updated on 24/04/2025 18:54:42 UTC
 <!--END_SECTION:waka-->
 
 
