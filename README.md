@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 62.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,7 +72,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 03:09:00 UTC
+ Last Updated on 30/05/2025 18:56:20 UTC
 <!--END_SECTION:waka-->
 
 
