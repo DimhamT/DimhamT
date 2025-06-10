@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 62.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,17 @@ Sunday                   368 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    33 hrs 3 mins       █████████████████████████   99.70 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Julia                    35 hrs 59 mins      █████████████████████████   99.63 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  36 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    36 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -69,7 +72,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 18:57:15 UTC
+ Last Updated on 10/06/2025 18:57:43 UTC
 <!--END_SECTION:waka-->
 
 
