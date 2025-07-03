@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 62.2 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
+> 🏆 26 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,13 +42,14 @@ Sunday                   393 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    7 hrs 5 mins        █████████████████████████   100.00 % 
+Julia                    1 hr 22 mins        ███████████████████████░░   93.72 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -68,7 +69,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 18:55:58 UTC
+ Last Updated on 03/07/2025 09:13:54 UTC
 <!--END_SECTION:waka-->
 
 
