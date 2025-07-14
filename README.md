@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -7,13 +7,13 @@
 
 > 📦 62.3 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
+> 🏆 37 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -42,17 +42,17 @@ Sunday                   408 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    28 hrs 8 mins       ████████████████████████░   96.57 % 
-TypeScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Julia                    30 hrs 36 mins      ████████████████████████░   96.41 % 
+TypeScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  31 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    31 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -72,7 +72,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhtantoy/dhtantoy/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 18:56:15 UTC
+ Last Updated on 14/07/2025 19:03:28 UTC
 <!--END_SECTION:waka-->
 
 
