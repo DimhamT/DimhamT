@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 62.3 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
+> 🏆 40 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,17 +42,15 @@ Sunday                   416 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    24 hrs 16 mins      █████████████████████████   99.84 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Julia                    31 hrs 26 mins      █████████████████████████   99.93 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -72,7 +70,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DimhamT/DimhamT/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 19:02:30 UTC
+ Last Updated on 23/07/2025 19:03:09 UTC
 <!--END_SECTION:waka-->
 
 
