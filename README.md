@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,7 +70,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DimhamT/DimhamT/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2025 18:50:06 UTC
+ Last Updated on 12/10/2025 18:53:00 UTC
 <!--END_SECTION:waka-->
 
 
