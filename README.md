@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,11 +7,11 @@
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2025
+> 🏆 64 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -42,17 +42,17 @@ Sunday                   548 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
-Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Makefile                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.94 % 
+Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Makefile                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -72,7 +72,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DimhamT/DimhamT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 19:01:07 UTC
+ Last Updated on 07/11/2025 18:55:46 UTC
 <!--END_SECTION:waka-->
 
 
