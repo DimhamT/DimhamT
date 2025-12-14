@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -42,14 +42,14 @@ Sunday                   599 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Julia                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Julia                    5 hrs 46 mins       █████████████████████████   100.00 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Julia** 
@@ -69,7 +69,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DimhamT/DimhamT/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 18:57:26 UTC
+ Last Updated on 14/12/2025 18:59:04 UTC
 <!--END_SECTION:waka-->
 
 
