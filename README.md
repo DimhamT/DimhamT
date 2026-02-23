@@ -42,15 +42,13 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        3 hrs 51 mins       ████████████████████████░   94.11 % 
-Julia                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Julia** 
@@ -70,7 +68,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DimhamT/DimhamT/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 19:02:42 UTC
+ Last Updated on 23/02/2026 19:40:39 UTC
 <!--END_SECTION:waka-->
 
 
